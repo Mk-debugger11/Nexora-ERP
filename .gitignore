@@ -1,0 +1,15 @@
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
+*/.env
+**/.env
+.DS_Store
+build/
+dist/
+coverage/
+.idea/
+.vscode/
+*.sqlite3
+.gemini/
